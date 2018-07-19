@@ -1,0 +1,21 @@
+<package>
+	<id>com.jerrytian.shortlook.plugin.contact-photo.wechat</id>
+	<name>WeChat Contact Photos for ShortLook</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+            <maxiOS>11.4</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate, co.dynastic.ios.tweak.shortlook</dependencies>
+	<descriptionlist>
+		<description>WeChat Contact Photos for ShortLook</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

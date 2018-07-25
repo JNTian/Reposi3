@@ -2,5 +2,7 @@
 	<changes>
 		<version>1.0.1</version>
 		<change>Initial release</change>
+        <version>1.0.2</version>
+        <change>Support high quality profile picture.</change>
 	</changes>
 </changelog>

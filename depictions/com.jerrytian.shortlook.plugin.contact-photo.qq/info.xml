@@ -1,0 +1,18 @@
+<package>
+	<id>com.jerrytian.shortlook.plugin.contact-photo.qq</id>
+	<name>QQ Profile Pictures for ShortLook</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+            <maxiOS>11.4</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate, co.dynastic.ios.tweak.shortlook</dependencies>
+	<descriptionlist>
+		<description>Show QQ users' profile pictures in ShortLook when you receive a QQ notification!</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<links></links>
+</package>
